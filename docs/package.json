@@ -1,0 +1,21 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Nicolas Mace",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Nicolas Mace",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.11.1",
+    "slick-carousel": "^1.8.1",
+    "slick-lightbox": "^0.2.10",
+    "typed.js": "^2.0.6",
+    "vivus": "^0.4.2"
+  },
+  "devDependencies": {}
+}

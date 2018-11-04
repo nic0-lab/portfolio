@@ -1,0 +1,10 @@
+section 1: presentation + competences
+
+section 2: contact, formulaire de contact avec les liens vers les reseaux sociaux, dribbble, codepen
+
+section 3: galerie des realisations, sites, templates, logos
+
+section 4: integrer un jeu, casse brique, tetris
+
+liens reseaux sociaux en bas de page d'accueil
+

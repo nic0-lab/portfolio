@@ -1,0 +1,25 @@
+body {
+  background-color: #000;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 400px;
+  width: 50px;
+  border: 2px solid tomato;
+  border-top: none;
+  overflow: hidden;
+}
+
+.cell {
+  margin: 3px 5px;
+  border: 1px solid yellow;
+  width: 38px;
+  height: 20px;
+}
+
+.label {
+color: tomato;
+}
