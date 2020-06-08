@@ -7,15 +7,15 @@
   "author": "Nicolas Mace",
   "license": "MIT",
   "dependencies": {
-    "animate.css": "^3.5.2",
-    "bootstrap": "4.0.0-beta",
-    "font-awesome": "^4.7.0",
-    "jquery": "^3.5.0",
-    "popper.js": "^1.11.1",
-    "slick-carousel": "^1.8.1",
-    "slick-lightbox": "^0.2.10",
-    "typed.js": "^2.0.6",
-    "vivus": "^0.4.2"
+    "animate.css": "^4.1.0",
+    "bootstrap": "",
+    "font-awesome": "",
+    "jquery": "",
+    "popper.js": "",
+    "slick-carousel": "",
+    "slick-lightbox": "^0.2.12",
+    "typed.js": "^2.0.11",
+    "vivus": "^0.4.5"
   },
   "devDependencies": {}
 }
